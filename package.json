@@ -1,0 +1,18 @@
+{
+  "name": "bg-cover",
+  "version": "0.0.0",
+  "description": "It allows to adjust both image and video to the size with center/cover cut format.",
+  "main": "dist/bg-cover.js",
+  "umd:main": "dist/bg-cover.umd.js",
+  "module": "dist/bg-cover.m.js",
+  "source": "src/index.js",
+  "author": "Matias Trujillo Olivares",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/UpperCod/bg-cover.git"
+  },
+  "devDependencies": {
+    "microbundle": "^0.6.0"
+  }
+}
